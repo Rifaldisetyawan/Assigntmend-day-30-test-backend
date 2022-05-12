@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1652244634977" clover="3.2.0">
+  <project timestamp="1652244634979" name="All files">
+    <metrics statements="21" coveredstatements="19" conditionals="6" coveredconditionals="5" methods="4" coveredmethods="4" elements="31" coveredelements="28" complexity="0" loc="21" ncloc="21" packages="2" files="2" classes="2"/>
+    <package name="server.handlers">
+      <metrics statements="15" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="math.js" path="D:\Aldi\DIBIMBING batch 5\day-39\assignment-day-39\server\handlers\math.js">
+        <metrics statements="15" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="21" count="6" type="stmt"/>
+        <line num="22" count="6" type="stmt"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="34" count="6" type="stmt"/>
+        <line num="39" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="storage.models">
+      <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="5" methods="2" coveredmethods="2"/>
+      <file name="math.model.js" path="D:\Aldi\DIBIMBING batch 5\day-39\assignment-day-39\storage\models\math.model.js">
+        <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="5" methods="2" coveredmethods="2"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="cond" truecount="3" falsecount="1"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
